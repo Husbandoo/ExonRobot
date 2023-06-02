@@ -19,7 +19,7 @@ class Config(object):
     SUPPORT_CHAT = getenv("SUPPORT_CHAT", "Arsenia_Support")
     LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001829138937"))
     MONGO_URI = getenv("MONGO_DB_URI")
-    REDIS_URL = "redis://default:wK6ZCiclq4iQKYpgfY90v6kd6WdPfEwl@redis-10186.c263.us-east-1-2.ec2.cloud.redislabs.com:10186/default"
+    REDIS_URL = "redis://default:hICEFFY40e4F7hj2HEwvO6PLUDWPrADf@redis-11018.c15.us-east-1-2.ec2.cloud.redislabs.com:11018"
     DATABASE_URL = getenv("DATABASE_URL")
 
     # ɴᴏ ᴇᴅɪᴛ ᴢᴏɴᴇ
